@@ -1,0 +1,12 @@
+test1 2042-f 2042-f 
+test2 110667-m 110667-m
+test3 3424-m 3424-m
+test4 4177-m 4177-m
+test5 110667-m 4287-f
+test6 7722-f 7722-f
+test7 110667-m 4287-f
+test8 102147-m 102147-m
+test9 103183-m 103183-m
+test10 106888-m 106888-m
+ 
+order: Test MyGMM MatlabGMM
